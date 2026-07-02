@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1782818194 source:c:\users\amine\onedrive\documents\language c\student grades analyzer\main.c
+	<stdio.h>
+	<stdlib.h>
+
